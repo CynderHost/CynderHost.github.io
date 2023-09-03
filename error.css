@@ -658,11 +658,15 @@ button {
 
     img.checkmark {
         width: 16px;
-        vertical-align: -3px;
+        vertical-align: -4px;
     }
 
     p#device-info {
         font-size: 14px;
+    }
+
+    h2 {
+        font-size: 18px;
     }
 
     small {
